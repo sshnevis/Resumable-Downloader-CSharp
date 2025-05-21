@@ -1,4 +1,4 @@
-# Exir Downloader
+# Exir Downloader with Resume support using C#
 
 A simple Windows Forms application to download and install the latest version of Exir software.
 
